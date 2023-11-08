@@ -2,16 +2,16 @@
 
 double a, b, c, d;
 
-Console.Write("Enter a: ");
+Console.Write("Input value for variable `a`: ");
 a = double.Parse(Console.ReadLine());
 
-Console.Write("Enter b: ");
+Console.Write("Input value for variable `b`: ");
 b = double.Parse(Console.ReadLine());
 
-Console.Write("Enter c: ");
+Console.Write("Input value for variable `c`: ");
 c = double.Parse(Console.ReadLine());
 
-Console.Write("Enter d: ");
+Console.Write("Input value for variable `d`: ");
 d = double.Parse(Console.ReadLine());
 
 double x, y, z, r;
